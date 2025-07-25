@@ -1,0 +1,2 @@
+C:/developement/flutter-apps/dawra/android/app/.cxx/Debug/1p5n6pq4/x86/CMakeFiles/edit_cache.dir
+C:/developement/flutter-apps/dawra/android/app/.cxx/Debug/1p5n6pq4/x86/CMakeFiles/rebuild_cache.dir
